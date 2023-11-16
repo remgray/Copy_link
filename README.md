@@ -1,4 +1,4 @@
-// Структура элемента
+
 ```javascript
 <ul>
     <li class="link__item">
